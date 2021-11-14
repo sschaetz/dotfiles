@@ -5,3 +5,5 @@ Dotfiles
 - `bash/bashrc` goes into `~/.bashrc`
 - `vim/vimrc` goes into `~/.vimrc` 
 - `vim/vim` goes into `~/.vim`
+- `tmux/tmux.conf` goes into `~/.tmux.conf`
+
